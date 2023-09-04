@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah Zayed</h1>
 <h3 align="center">A passionate full stack developer from Egypt</h3>
 
-<h3 align="left">Connect with me: mosala71352003@outlook.com</h3>
+- 📫 How to reach me **mosala71352003@outlook.com**
+
 <p align="left">
 </p>
 
