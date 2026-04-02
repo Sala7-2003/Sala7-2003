@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Egypt</h3>
 
 - 📫 How to reach me **mosala71352003@outlook.com**
-
+- My LinkedIn <a href="https://www.linkedin.com/in/mohamed-salah-zayed-45b48b220/">Salah</a>
 <p align="left">
 </p>
 
